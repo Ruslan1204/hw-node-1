@@ -1,0 +1,21 @@
+{
+  "name": "hw-node-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start1": "node contacts",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "i": "^0.3.7",
+    "nanoid": "^3.3.4",
+    "npm": "^9.7.2"
+  }
+}
