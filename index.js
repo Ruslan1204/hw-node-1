@@ -1,7 +1,3 @@
-// const yargs = require("yargs");
-// const { hideBin } = require("yargs/helpers");
-
-
 
 const { Command } = require('commander');
 const program = new Command();
